@@ -86,3 +86,4 @@
 - [交差点の調和の守り手](/stories/urban_life/crossroad_harmony_keeper.md)
 - [交差点の物語の間](/stories/urban_life/crossroad_tavern_corner.md)
 - [駆け引きの一杯](/stories/urban_life/wit_and_eria_banter_revised.md)
+- [言葉の駆け引き](/stories/urban_life/eria_wit_banter_revised.md)

@@ -85,3 +85,4 @@
 - [言葉の商人](/stories/urban_life/word_merchant.md)
 - [銀舌の秘密](/stories/urban_life/silver_tongue_secret.md)
 - [駆け引きの一杯](/stories/urban_life/wit_and_eria_banter_revised.md)
+- [言葉の駆け引き](/stories/urban_life/eria_wit_banter_revised.md)
